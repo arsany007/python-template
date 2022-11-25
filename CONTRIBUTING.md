@@ -5,12 +5,6 @@ python_template welcomes contributions from the community.
 **You need PYTHON3!**
 
 This instructions are for linux base systems. (Linux, MacOS, BSD, etc.)
-## Setting up your own fork of this repo.
-
-- On github interface click on `Fork` button.
-- Clone your fork of this repo. `git clone git@github.com:YOUR_GIT_USERNAME/python-template.git`
-- Enter the directory `cd python-template`
-- Add upstream repo `git remote add upstream https://github.com/arsany007/python-template`
 
 ## Setting up your own virtual environment
 
@@ -68,6 +62,7 @@ Run `git push origin my_contribution`
 On github interface, click on `Pull Request` button.
 
 Wait CI to run and one of the developers will review your PR.
+
 ## Makefile utilities
 
 This project comes with a `Makefile` that contains a number of useful utility.
